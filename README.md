@@ -4,7 +4,7 @@
 - 👨🏻‍💻 Full-stack developer @ [Dev Craft](https://www.dev-craft.com/)
 - 💻 Technologies: `.vue`, `.java`, `.sql`
 - 👀 I’m interested in Game Design and Development
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning [Unity](https://unity.com/), [Nuxt](https://v3.nuxtjs.org/)
 
 <!---
 lol-iris/lol-iris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
