@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Georgi
-- 🎓 3rd year Computer Science and Engineering @ [TU Delft](https://www.tudelft.nl/)
+- 🎓 4th year Computer Science and Engineering @ [TU Delft](https://www.tudelft.nl/)
 - 👾 Minor in Game Studies and Cultural Analysis @ [Leiden University](https://www.universiteitleiden.nl/)
 - 👨🏻‍💻 Full-stack developer @ [Dev Craft](https://www.dev-craft.com/)
 - 💻 Technologies: `.vue`, `.java`, `.sql`, `.go`
