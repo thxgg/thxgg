@@ -6,7 +6,7 @@
 <li>👨🏻‍💻 Full-stack developer @ <a href="https://www.dev-craft.com/">Dev Craft</a></li>
 </ul>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="left">Connect with me</h2>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 4px; justify-content: center">
   <a href="https://thxgg.dev/"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/thxgg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -15,7 +15,7 @@
   <a href="mailto:gatanasovgeorgiev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center">
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 4px; justify-content: center; height: min-content;">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -33,14 +33,14 @@
   </div>
 </div>
 
-<h2 align="center">Support</h2>
+<h2 align="left">Support</h2>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 4px; justify-content: center; height: min-content;">
   <a href="https://ko-fi.com/thxgg"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="https://paypal.me/thxggdev"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 <div style="display: flex; flex-direction: column; height: 200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thxgg&locale=en&layout=compact&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api?username=thxgg&show_icons=true&locale=en&rank_icon=github&theme=vue&custom_title=Georgi%20Georgiev's%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thxgg&locale=en&layout=compact&theme=vue" />
 </div>
